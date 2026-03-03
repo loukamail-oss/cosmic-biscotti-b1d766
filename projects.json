@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Elektrificatie tuinhuis",
+    "photos": [
+      {
+        "src": "assets/realisaties/elektrificatie-tuinhuis/01.jpg"
+      },
+      {
+        "src": "assets/realisaties/elektrificatie-tuinhuis/02.jpg"
+      },
+      {
+        "src": "assets/realisaties/elektrificatie-tuinhuis/03.jpg",
+        "caption": "Sleuf"
+      },
+      {
+        "src": "assets/realisaties/elektrificatie-tuinhuis/04.jpg"
+      },
+      {
+        "src": "assets/realisaties/elektrificatie-tuinhuis/05.jpg"
+      },
+      {
+        "src": "assets/realisaties/elektrificatie-tuinhuis/06.jpg"
+      },
+      {
+        "src": "assets/realisaties/elektrificatie-tuinhuis/07.jpg",
+        "caption": "nieuwe zekering"
+      },
+      {
+        "src": "assets/realisaties/elektrificatie-tuinhuis/08.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Thuisbatterij aansluiten",
+    "photos": [
+      {
+        "src": "assets/realisaties/thuisbatterij-aansluiten/01.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Barverlichting",
+    "photos": [
+      {
+        "src": "assets/realisaties/barverlichting/01.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Zekeringskasten vernieuwen",
+    "photos": [
+      {
+        "src": "assets/realisaties/zekeringskasten-vernieuwen/01.jpg",
+        "caption": "Voor"
+      },
+      {
+        "src": "assets/realisaties/zekeringskasten-vernieuwen/02.jpg",
+        "caption": "Na"
+      },
+      {
+        "src": "assets/realisaties/zekeringskasten-vernieuwen/03.jpg"
+      },
+      {
+        "src": "assets/realisaties/zekeringskasten-vernieuwen/04.jpg"
+      }
+    ]
+  }
+]
